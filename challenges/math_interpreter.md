@@ -17,6 +17,7 @@ Note that, just as python itself is an interpreter for Python, so will your inte
 - Prompt the user to enter a math expression in the format X y Z where y is a math operator (+, _, *, /)
   - "Expression: "
 - Parse the expression to determine which operation to carry out and the value of the numbers
+- If the expression is in an incorrect format, OUTPUT AN "Incorrect Format" and reprompt the user. 
 - Output the answer to the expression
 
 ## Sample Output
