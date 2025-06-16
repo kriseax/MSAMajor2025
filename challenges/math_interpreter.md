@@ -24,19 +24,19 @@ Note that, just as python itself is an interpreter for Python, so will your inte
 
 Expression: 1 + 1 
 ```
-2.0 
+anwer: 2.0 
 ```
 Expression: 2 - 3 
 ```
--1.0
+answer: -1.0
 ```
 Expression: 2 * 2
 ```
-4.0
+answer: 4.0
 ```
 Expression: 50 / 5 
 ```
-10.0
+answer: 10.0
 ```
 
 
