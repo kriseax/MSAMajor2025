@@ -22,7 +22,10 @@ You will have 3 additional methods
   - "Senior": more than 90 hours
 
 - update_credit_hours: 1 pararmeter for additional hours. This method will update credit hours by adding aditional_hours to the students credit hours.
-- print_student_data: Print all student data
+- print_student_data: Print all student data in the following format
+  - John Smith
+  - Class Level: Junior, Major: Computer Science
+  - GPA: 3.75, ID: 12345678 
 
 ## Load Student Data
 Load student data from the students.csv file
