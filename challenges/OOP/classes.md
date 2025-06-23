@@ -31,7 +31,7 @@ You will have 3 additional methods
 Load student data from the students.csv file
 
 ### Create Student Generator Program to test your code
-- Create 2 instances of Student
+- Create student objects from the data loaded from students.csv
 - Place in a list
 - Print each students data
 
