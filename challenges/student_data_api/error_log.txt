@@ -7,3 +7,192 @@
 2025-06-24 11:26:25.872531: Error: Data format error on line 2. Did not get 6 items in line of data
 2025-06-24 11:26:25.872531: Error: Data format error on line 3. Did not get 6 items in line of data
 2025-06-24 11:26:25.873530: Error: credit hours or gpa not a number on line 4
+2025-06-25 09:21:04.660247: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-25 09:21:04.660247: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-25 09:21:04.660247: Error: credit hours or gpa not a number on line 4
+2025-06-25 09:28:04.718442: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-25 09:28:04.718442: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-25 09:28:04.718442: Error: credit hours or gpa not a number on line 4
+2025-06-25 10:52:03.564505: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-25 10:52:03.564505: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-25 10:52:03.564505: Error: credit hours or gpa not a number on line 4
+2025-06-25 11:08:03.097462: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-25 11:08:03.100527: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-25 11:08:03.100527: Error: credit hours or gpa not a number on line 4
+2025-06-25 11:15:11.973054: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-25 11:15:11.977295: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-25 11:15:11.977295: Error: credit hours or gpa not a number on line 4
+2025-06-25 11:16:54.669530: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-25 11:16:54.669530: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-25 11:16:54.669530: Error: credit hours or gpa not a number on line 4
+2025-06-25 11:17:00.546842: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-25 11:17:00.546842: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-25 11:17:00.546842: Error: credit hours or gpa not a number on line 4
+2025-06-25 11:17:19.722729: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-25 11:17:19.722729: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-25 11:17:19.727403: Error: credit hours or gpa not a number on line 4
+2025-06-26 08:44:15.104489: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 08:44:15.104489: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 08:44:15.104489: Error: credit hours or gpa not a number on line 4
+2025-06-26 08:44:31.107657: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 08:44:31.107657: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 08:44:31.107657: Error: credit hours or gpa not a number on line 4
+2025-06-26 08:44:55.970306: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 08:44:55.970306: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 08:44:55.970306: Error: credit hours or gpa not a number on line 4
+2025-06-26 08:55:55.153233: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 08:55:55.153233: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 08:55:55.153233: Error: credit hours or gpa not a number on line 4
+2025-06-26 08:56:18.549776: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 08:56:18.549776: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 08:56:18.549776: Error: credit hours or gpa not a number on line 4
+2025-06-26 10:01:25.893878: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 10:01:25.893878: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 10:01:25.893878: Error: credit hours or gpa not a number on line 4
+2025-06-26 10:02:32.685902: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 10:02:32.685902: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 10:02:32.685902: Error: credit hours or gpa not a number on line 4
+2025-06-26 10:05:56.571528: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 10:05:56.571528: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 10:05:56.571528: Error: credit hours or gpa not a number on line 4
+2025-06-26 10:13:32.406695: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 10:13:32.406695: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 10:13:32.406695: Error: credit hours or gpa not a number on line 4
+2025-06-26 10:13:41.179113: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 10:13:41.179113: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 10:13:41.179113: Error: credit hours or gpa not a number on line 4
+2025-06-26 10:14:15.268913: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 10:14:15.281496: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 10:14:15.281496: Error: credit hours or gpa not a number on line 4
+2025-06-26 10:15:37.633068: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 10:15:37.633068: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 10:15:37.633068: Error: credit hours or gpa not a number on line 4
+2025-06-26 10:16:20.538881: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 10:16:20.540705: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 10:16:20.540705: Error: credit hours or gpa not a number on line 4
+2025-06-26 10:16:54.561611: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 10:16:54.561611: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 10:16:54.567245: Error: credit hours or gpa not a number on line 4
+2025-06-26 10:17:04.968644: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 10:17:04.968644: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 10:17:04.973034: Error: credit hours or gpa not a number on line 4
+2025-06-26 11:09:48.277493: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 11:09:48.281485: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 11:09:48.281485: Error: credit hours or gpa not a number on line 4
+2025-06-26 11:19:53.847844: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 11:19:53.847844: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 11:19:53.847844: Error: credit hours or gpa not a number on line 4
+2025-06-26 11:20:53.586926: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-26 11:20:53.586926: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-26 11:20:53.601406: Error: credit hours or gpa not a number on line 4
+2025-06-27 08:36:16.889157: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 08:36:16.889157: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 08:36:16.889157: Error: credit hours or gpa not a number on line 4
+2025-06-27 08:38:19.346590: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 08:38:19.346590: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 08:38:19.346590: Error: credit hours or gpa not a number on line 4
+2025-06-27 08:40:19.767750: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 08:40:19.767750: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 08:40:19.767750: Error: credit hours or gpa not a number on line 4
+2025-06-27 08:47:40.506088: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 08:47:40.506088: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 08:47:40.509906: Error: credit hours or gpa not a number on line 4
+2025-06-27 08:55:23.203697: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 08:55:23.203697: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 08:55:23.203697: Error: credit hours or gpa not a number on line 4
+2025-06-27 08:59:38.099193: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 08:59:38.099193: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 08:59:38.099193: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:01:40.725790: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:01:40.730612: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:01:40.730612: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:03:56.050090: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:03:56.050090: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:03:56.050090: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:03:59.170452: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:03:59.170452: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:03:59.170452: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:04:00.151228: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:04:00.159206: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:04:00.159206: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:04:00.879290: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:04:00.879290: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:04:00.879290: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:04:01.586273: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:04:01.586273: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:04:01.586273: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:04:02.003754: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:04:02.003754: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:04:02.003754: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:04:04.803455: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:04:04.803455: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:04:04.803455: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:04:05.365098: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:04:05.365098: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:04:05.365098: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:04:06.120558: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:04:06.120558: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:04:06.120558: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:04:08.439843: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:04:08.439843: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:04:08.439843: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:09:44.232057: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:09:44.232057: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:09:44.232057: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:17:06.579683: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:17:06.579683: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:17:06.579683: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:32:50.171955: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:32:50.171955: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:32:50.171955: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:33:31.844385: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:33:31.844385: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:33:31.844385: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:44:13.549463: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:44:13.549463: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:44:13.549463: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:48:28.894571: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:48:28.894571: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:48:28.894571: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:50:04.932314: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:50:04.932314: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:50:04.932314: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:50:56.038295: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:50:56.038295: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:50:56.038295: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:54:06.736033: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:54:06.736033: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:54:06.736033: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:54:08.653059: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:54:08.653059: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:54:08.653059: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:54:10.232703: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:54:10.232703: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:54:10.232703: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:54:11.022851: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:54:11.023868: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:54:11.023868: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:58:09.676319: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:58:09.676319: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:58:09.676319: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:58:53.643015: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:58:53.643015: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:58:53.643015: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:59:13.340485: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:59:13.340485: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:59:13.340485: Error: credit hours or gpa not a number on line 4
+2025-06-27 09:59:20.834850: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 09:59:20.834850: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 09:59:20.834850: Error: credit hours or gpa not a number on line 4
+2025-06-27 10:17:46.399905: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 10:17:46.399905: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 10:17:46.399905: Error: credit hours or gpa not a number on line 4
+2025-06-27 10:17:46.415740: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 10:17:46.415740: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 10:17:46.415740: Error: credit hours or gpa not a number on line 4
+2025-06-27 10:17:52.596656: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 10:17:52.610362: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 10:17:52.612371: Error: credit hours or gpa not a number on line 4
+2025-06-27 10:17:52.612371: Error: Data format error on line 2. Did not get 6 items in line of data
+2025-06-27 10:17:52.612371: Error: Data format error on line 3. Did not get 6 items in line of data
+2025-06-27 10:17:52.612371: Error: credit hours or gpa not a number on line 4

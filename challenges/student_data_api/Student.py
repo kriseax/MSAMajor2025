@@ -6,7 +6,7 @@ class Student:
         self.__major = major
         self.__credit_hours = credit_hours
         self.__gpa = gpa
-        self.__ID = ID
+        self.__ID = ID.strip()
         #self.__class_level = sel.
     
     def get_first_name(self):

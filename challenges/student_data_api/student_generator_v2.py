@@ -109,9 +109,4 @@ def get_student_dictionaries():
     #get a list of stuudent dictionaries
     student_dictionaries = student_to_dictionary(student_list)
 
-    for student_dict in student_dictionaries:
-        print(student_dict)
-
     return student_dictionaries
-
-get_student_dictionaries()
